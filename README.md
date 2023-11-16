@@ -55,5 +55,22 @@
 ![empdnew1](https://github.com/deepikasrinivasans/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/119393935/384cb075-3ba0-4db6-a886-7d29bbcd1ef7)
 ### Name: Deepika S
 ### Register Number: 212222230028
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
